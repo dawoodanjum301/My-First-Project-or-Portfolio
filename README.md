@@ -10,6 +10,8 @@
 - HTML
 - CSS
 - JavaScript (starting)
+ - SEO
+ - Chatbots on website
 
 ## 📌 Goals
 - Build real-world projects
